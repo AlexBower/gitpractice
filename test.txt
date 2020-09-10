@@ -1,8 +1,6 @@
 One
 two
 three
-<<<<<<< HEAD
 four
 ready?
 Go!
->>>>>>> 922fe6e07ab59358d3a52c2b7ab910e15c0ae8fb
